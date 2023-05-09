@@ -1,0 +1,82 @@
+2023-04-11T08:44:03+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function _nx(), 1 passed in /home/c/cm78278/igor/public_html/wp-content/plugins/woocommerce/templates/loop/result-count.php on line 33 and at least 4 expected in /home/c/cm78278/igor/public_html/wp-includes/l10n.php:534
+Stack trace:
+#0 /home/c/cm78278/igor/public_html/wp-content/plugins/woocommerce/templates/loop/result-count.php(33): _nx('\xD0\x9F\xD0\xBE\xD0\xBA\xD0\xB0\xD0\xB7\xD0\xB0\xD0\xBD\xD0...')
+#1 /home/c/cm78278/igor/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/c/cm78278...')
+#2 /home/c/cm78278/igor/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1460): wc_get_template('loop/result-cou...', Array)
+#3 /home/c/cm78278/igor/public_html/wp-includes/class-wp-hook.php(308): woocommerce_result_count('woocommerce_res...')
+#4 /home/c/cm78278/igor/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#5 /home/c/cm78278/igor/public_html/wp-includes/plu в /home/c/cm78278/igor/public_html/wp-includes/l10n.php на строке 534
+
+2023-04-11T08:44:22+00:00 CRITICAL syntax error, unexpected '$total' (T_VARIABLE), expecting ')' в /home/c/cm78278/igor/public_html/wp-content/plugins/woocommerce/templates/loop/result-count.php на строке 33
+
+2023-04-11T09:32:17+00:00 CRITICAL syntax error, unexpected 'if' (T_IF) в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/archive-product.php на строке 70
+
+2023-04-11T09:38:03+00:00 CRITICAL syntax error, unexpected 'if' (T_IF) в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/archive-product.php на строке 71
+
+2023-04-11T09:40:57+00:00 CRITICAL syntax error, unexpected 'if' (T_IF) в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/archive-product.php на строке 71
+
+2023-04-11T09:41:08+00:00 CRITICAL syntax error, unexpected 'if' (T_IF) в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/archive-product.php на строке 71
+
+2023-04-11T09:41:20+00:00 CRITICAL syntax error, unexpected 'if' (T_IF) в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/archive-product.php на строке 71
+
+2023-04-11T09:42:46+00:00 CRITICAL syntax error, unexpected 'if' (T_IF) в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/archive-product.php на строке 71
+
+2023-04-11T09:53:21+00:00 CRITICAL syntax error, unexpected ',' в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/archive-product.php на строке 70
+
+2023-04-11T13:43:32+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on string in /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/content-single-product.php:7
+Stack trace:
+#0 /home/c/cm78278/igor/public_html/wp-includes/template.php(785): require()
+#1 /home/c/cm78278/igor/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template('/home/c/cm78278...', false)
+#2 /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/single-product.php(29): wc_get_template_part('content', 'single-product')
+#3 /home/c/cm78278/igor/public_html/wp-includes/template-loader.php(106): include('/home/c/cm78278...')
+#4 /home/c/cm78278/igor/public_html/wp-blog-header.php(19): require_once('/home/c/cm78278...')
+#5 /home/c/cm78278/igor/public_html/index.php(17): require('/home/c/cm78278...')
+#6 {main}
+  thrown в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/content-single-product.php на строке 7
+
+2023-04-11T13:44:40+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on string in /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/content-single-product.php:7
+Stack trace:
+#0 /home/c/cm78278/igor/public_html/wp-includes/template.php(785): require()
+#1 /home/c/cm78278/igor/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template('/home/c/cm78278...', false)
+#2 /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/single-product.php(29): wc_get_template_part('content', 'single-product')
+#3 /home/c/cm78278/igor/public_html/wp-includes/template-loader.php(106): include('/home/c/cm78278...')
+#4 /home/c/cm78278/igor/public_html/wp-blog-header.php(19): require_once('/home/c/cm78278...')
+#5 /home/c/cm78278/igor/public_html/index.php(17): require('/home/c/cm78278...')
+#6 {main}
+  thrown в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/content-single-product.php на строке 7
+
+2023-04-11T13:45:35+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on string in /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/content-single-product.php:7
+Stack trace:
+#0 /home/c/cm78278/igor/public_html/wp-includes/template.php(785): require()
+#1 /home/c/cm78278/igor/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template('/home/c/cm78278...', false)
+#2 /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/single-product.php(29): wc_get_template_part('content', 'single-product')
+#3 /home/c/cm78278/igor/public_html/wp-includes/template-loader.php(106): include('/home/c/cm78278...')
+#4 /home/c/cm78278/igor/public_html/wp-blog-header.php(19): require_once('/home/c/cm78278...')
+#5 /home/c/cm78278/igor/public_html/index.php(17): require('/home/c/cm78278...')
+#6 {main}
+  thrown в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/content-single-product.php на строке 7
+
+2023-04-11T13:45:41+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on string in /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/content-single-product.php:7
+Stack trace:
+#0 /home/c/cm78278/igor/public_html/wp-includes/template.php(785): require()
+#1 /home/c/cm78278/igor/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template('/home/c/cm78278...', false)
+#2 /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/single-product.php(29): wc_get_template_part('content', 'single-product')
+#3 /home/c/cm78278/igor/public_html/wp-includes/template-loader.php(106): include('/home/c/cm78278...')
+#4 /home/c/cm78278/igor/public_html/wp-blog-header.php(19): require_once('/home/c/cm78278...')
+#5 /home/c/cm78278/igor/public_html/index.php(17): require('/home/c/cm78278...')
+#6 {main}
+  thrown в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/content-single-product.php на строке 7
+
+2023-04-11T13:48:22+00:00 CRITICAL syntax error, unexpected end of file в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/content-single-product.php на строке 113
+
+2023-04-11T13:49:01+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on string in /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/content-single-product.php:15
+Stack trace:
+#0 /home/c/cm78278/igor/public_html/wp-includes/template.php(785): require()
+#1 /home/c/cm78278/igor/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template('/home/c/cm78278...', false)
+#2 /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/single-product.php(29): wc_get_template_part('content', 'single-product')
+#3 /home/c/cm78278/igor/public_html/wp-includes/template-loader.php(106): include('/home/c/cm78278...')
+#4 /home/c/cm78278/igor/public_html/wp-blog-header.php(19): require_once('/home/c/cm78278...')
+#5 /home/c/cm78278/igor/public_html/index.php(17): require('/home/c/cm78278...')
+#6 {main}
+  thrown в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/content-single-product.php на строке 15
+

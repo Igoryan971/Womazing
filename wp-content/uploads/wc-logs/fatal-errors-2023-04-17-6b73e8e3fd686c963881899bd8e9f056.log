@@ -1,0 +1,80 @@
+2023-04-17T06:54:57+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-checkout.php:13
+Stack trace:
+#0 /home/c/cm78278/igor/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/c/cm78278/igor/public_html/wp-blog-header.php(19): require_once('/home/c/cm78278...')
+#2 /home/c/cm78278/igor/public_html/index.php(17): require('/home/c/cm78278...')
+#3 {main}
+  thrown в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-checkout.php на строке 13
+
+2023-04-17T06:56:26+00:00 CRITICAL Uncaught Error: Call to a member function is_registration_enabled() on null in /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-checkout.php:16
+Stack trace:
+#0 /home/c/cm78278/igor/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/c/cm78278/igor/public_html/wp-blog-header.php(19): require_once('/home/c/cm78278...')
+#2 /home/c/cm78278/igor/public_html/index.php(17): require('/home/c/cm78278...')
+#3 {main}
+  thrown в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-checkout.php на строке 16
+
+2023-04-17T07:03:36+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on null in /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-checkout.php:68
+Stack trace:
+#0 /home/c/cm78278/igor/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/c/cm78278/igor/public_html/wp-blog-header.php(19): require_once('/home/c/cm78278...')
+#2 /home/c/cm78278/igor/public_html/index.php(17): require('/home/c/cm78278...')
+#3 {main}
+  thrown в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-checkout.php на строке 68
+
+2023-04-17T07:04:17+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on null in /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-checkout.php:68
+Stack trace:
+#0 /home/c/cm78278/igor/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/c/cm78278/igor/public_html/wp-blog-header.php(19): require_once('/home/c/cm78278...')
+#2 /home/c/cm78278/igor/public_html/index.php(17): require('/home/c/cm78278...')
+#3 {main}
+  thrown в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-checkout.php на строке 68
+
+2023-04-17T07:05:03+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on null in /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-checkout.php:68
+Stack trace:
+#0 /home/c/cm78278/igor/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/c/cm78278/igor/public_html/wp-blog-header.php(19): require_once('/home/c/cm78278...')
+#2 /home/c/cm78278/igor/public_html/index.php(17): require('/home/c/cm78278...')
+#3 {main}
+  thrown в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-checkout.php на строке 68
+
+2023-04-17T08:06:36+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on string in /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-received.php:36
+Stack trace:
+#0 /home/c/cm78278/igor/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/c/cm78278/igor/public_html/wp-blog-header.php(19): require_once('/home/c/cm78278...')
+#2 /home/c/cm78278/igor/public_html/index.php(17): require('/home/c/cm78278...')
+#3 {main}
+  thrown в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-received.php на строке 36
+
+2023-04-17T08:11:40+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on string in /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-received.php:36
+Stack trace:
+#0 /home/c/cm78278/igor/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/c/cm78278/igor/public_html/wp-blog-header.php(19): require_once('/home/c/cm78278...')
+#2 /home/c/cm78278/igor/public_html/index.php(17): require('/home/c/cm78278...')
+#3 {main}
+  thrown в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-received.php на строке 36
+
+2023-04-17T08:45:22+00:00 CRITICAL Uncaught Error: Call to undefined method WooCommerce::cart_get_cart() in /home/c/cm78278/igor/public_html/wp-content/themes/womazing/header-main.php:71
+Stack trace:
+#0 /home/c/cm78278/igor/public_html/wp-includes/template.php(783): require_once()
+#1 /home/c/cm78278/igor/public_html/wp-includes/template.php(718): load_template('/home/c/cm78278...', true, Array)
+#2 /home/c/cm78278/igor/public_html/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-home.php(7): get_header('main')
+#4 /home/c/cm78278/igor/public_html/wp-includes/template-loader.php(106): include('/home/c/cm78278...')
+#5 /home/c/cm78278/igor/public_html/wp-blog-header.php(19): require_once('/home/c/cm78278...')
+#6 /home/c/cm78278/igor/public_html/index.php(17): require('/home/c/cm78278...')
+#7 {main}
+  thrown в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/header-main.php на строке 71
+
+2023-04-17T08:45:27+00:00 CRITICAL Uncaught Error: Call to undefined method WooCommerce::cart_get_cart() in /home/c/cm78278/igor/public_html/wp-content/themes/womazing/header-main.php:71
+Stack trace:
+#0 /home/c/cm78278/igor/public_html/wp-includes/template.php(783): require_once()
+#1 /home/c/cm78278/igor/public_html/wp-includes/template.php(718): load_template('/home/c/cm78278...', true, Array)
+#2 /home/c/cm78278/igor/public_html/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-home.php(7): get_header('main')
+#4 /home/c/cm78278/igor/public_html/wp-includes/template-loader.php(106): include('/home/c/cm78278...')
+#5 /home/c/cm78278/igor/public_html/wp-blog-header.php(19): require_once('/home/c/cm78278...')
+#6 /home/c/cm78278/igor/public_html/index.php(17): require('/home/c/cm78278...')
+#7 {main}
+  thrown в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/header-main.php на строке 71
+

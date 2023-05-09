@@ -1,0 +1,38 @@
+2023-04-14T06:12:35+00:00 CRITICAL syntax error, unexpected '}', expecting end of file в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/content-single-product.php на строке 64
+
+2023-04-14T06:26:31+00:00 CRITICAL Uncaught Error: Call to a member function get_permalink() on null in /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/content-single-product.php:47
+Stack trace:
+#0 /home/c/cm78278/igor/public_html/wp-includes/template.php(785): require()
+#1 /home/c/cm78278/igor/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template('/home/c/cm78278...', false)
+#2 /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/single-product.php(29): wc_get_template_part('content', 'single-product')
+#3 /home/c/cm78278/igor/public_html/wp-includes/template-loader.php(106): include('/home/c/cm78278...')
+#4 /home/c/cm78278/igor/public_html/wp-blog-header.php(19): require_once('/home/c/cm78278...')
+#5 /home/c/cm78278/igor/public_html/index.php(17): require('/home/c/cm78278...')
+#6 {main}
+  thrown в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/content-single-product.php на строке 47
+
+2023-04-14T06:37:27+00:00 CRITICAL Uncaught Error: Call to a member function get_permalink() on null in /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/content-single-product.php:47
+Stack trace:
+#0 /home/c/cm78278/igor/public_html/wp-includes/template.php(785): require()
+#1 /home/c/cm78278/igor/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template('/home/c/cm78278...', false)
+#2 /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/single-product.php(29): wc_get_template_part('content', 'single-product')
+#3 /home/c/cm78278/igor/public_html/wp-includes/template-loader.php(106): include('/home/c/cm78278...')
+#4 /home/c/cm78278/igor/public_html/wp-blog-header.php(19): require_once('/home/c/cm78278...')
+#5 /home/c/cm78278/igor/public_html/index.php(17): require('/home/c/cm78278...')
+#6 {main}
+  thrown в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/content-single-product.php на строке 47
+
+2023-04-14T08:08:39+00:00 CRITICAL syntax error, unexpected end of file в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/content-single-product.php на строке 134
+
+2023-04-14T10:07:23+00:00 CRITICAL syntax error, unexpected end of file в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-cart.php на строке 261
+
+2023-04-14T10:08:44+00:00 CRITICAL syntax error, unexpected end of file в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-cart.php на строке 279
+
+2023-04-14T10:26:40+00:00 CRITICAL Uncaught Error: Call to a member function get_image() on null in /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-cart.php:71
+Stack trace:
+#0 /home/c/cm78278/igor/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/c/cm78278/igor/public_html/wp-blog-header.php(19): require_once('/home/c/cm78278...')
+#2 /home/c/cm78278/igor/public_html/index.php(17): require('/home/c/cm78278...')
+#3 {main}
+  thrown в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-cart.php на строке 71
+

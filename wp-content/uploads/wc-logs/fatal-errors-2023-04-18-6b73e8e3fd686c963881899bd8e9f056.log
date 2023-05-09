@@ -1,0 +1,18 @@
+2023-04-18T07:51:06+00:00 CRITICAL syntax error, unexpected '<', expecting end of file в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-checkout.php на строке 138
+
+2023-04-18T08:04:44+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-checkout.php:117
+Stack trace:
+#0 /home/c/cm78278/igor/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/c/cm78278/igor/public_html/wp-blog-header.php(19): require_once('/home/c/cm78278...')
+#2 /home/c/cm78278/igor/public_html/index.php(17): require('/home/c/cm78278...')
+#3 {main}
+  thrown в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-checkout.php на строке 117
+
+2023-04-18T08:05:16+00:00 CRITICAL Uncaught Error: Call to a member function is_registration_enabled() on null in /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-checkout.php:119
+Stack trace:
+#0 /home/c/cm78278/igor/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/c/cm78278/igor/public_html/wp-blog-header.php(19): require_once('/home/c/cm78278...')
+#2 /home/c/cm78278/igor/public_html/index.php(17): require('/home/c/cm78278...')
+#3 {main}
+  thrown в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-checkout.php на строке 119
+

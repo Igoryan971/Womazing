@@ -1,0 +1,71 @@
+2023-04-20T05:45:16+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_variation_regular_price() in /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/archive-product.php:71
+Stack trace:
+#0 /home/c/cm78278/igor/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/c/cm78278/igor/public_html/wp-blog-header.php(19): require_once('/home/c/cm78278...')
+#2 /home/c/cm78278/igor/public_html/index.php(17): require('/home/c/cm78278...')
+#3 {main}
+  thrown в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/archive-product.php на строке 71
+
+2023-04-20T05:46:19+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_variation_regular_price() in /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/archive-product.php:71
+Stack trace:
+#0 /home/c/cm78278/igor/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/c/cm78278/igor/public_html/wp-blog-header.php(19): require_once('/home/c/cm78278...')
+#2 /home/c/cm78278/igor/public_html/index.php(17): require('/home/c/cm78278...')
+#3 {main}
+  thrown в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/archive-product.php на строке 71
+
+2023-04-20T05:48:13+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_variation_sale_price() in /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/archive-product.php:71
+Stack trace:
+#0 /home/c/cm78278/igor/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/c/cm78278/igor/public_html/wp-blog-header.php(19): require_once('/home/c/cm78278...')
+#2 /home/c/cm78278/igor/public_html/index.php(17): require('/home/c/cm78278...')
+#3 {main}
+  thrown в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/archive-product.php на строке 71
+
+2023-04-20T05:48:48+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_variation_sale_price() in /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/archive-product.php:71
+Stack trace:
+#0 /home/c/cm78278/igor/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/c/cm78278/igor/public_html/wp-blog-header.php(19): require_once('/home/c/cm78278...')
+#2 /home/c/cm78278/igor/public_html/index.php(17): require('/home/c/cm78278...')
+#3 {main}
+  thrown в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/archive-product.php на строке 71
+
+2023-04-20T05:49:38+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_variation_sale_price() in /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/archive-product.php:71
+Stack trace:
+#0 /home/c/cm78278/igor/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/c/cm78278/igor/public_html/wp-blog-header.php(19): require_once('/home/c/cm78278...')
+#2 /home/c/cm78278/igor/public_html/index.php(17): require('/home/c/cm78278...')
+#3 {main}
+  thrown в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/archive-product.php на строке 71
+
+2023-04-20T05:52:53+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_variation_sale_price() in /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/archive-product.php:71
+Stack trace:
+#0 /home/c/cm78278/igor/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/c/cm78278/igor/public_html/wp-content/plugins/woocommerce/templates/taxonomy-product-cat.php(22): wc_get_template('archive-product...')
+#2 /home/c/cm78278/igor/public_html/wp-includes/template-loader.php(106): include('/home/c/cm78278...')
+#3 /home/c/cm78278/igor/public_html/wp-blog-header.php(19): require_once('/home/c/cm78278...')
+#4 /home/c/cm78278/igor/public_html/index.php(17): require('/home/c/cm78278...')
+#5 {main}
+  thrown в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/archive-product.php на строке 71
+
+2023-04-20T05:52:57+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_variation_sale_price() in /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/archive-product.php:71
+Stack trace:
+#0 /home/c/cm78278/igor/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/c/cm78278/igor/public_html/wp-content/plugins/woocommerce/templates/taxonomy-product-cat.php(22): wc_get_template('archive-product...')
+#2 /home/c/cm78278/igor/public_html/wp-includes/template-loader.php(106): include('/home/c/cm78278...')
+#3 /home/c/cm78278/igor/public_html/wp-blog-header.php(19): require_once('/home/c/cm78278...')
+#4 /home/c/cm78278/igor/public_html/index.php(17): require('/home/c/cm78278...')
+#5 {main}
+  thrown в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/archive-product.php на строке 71
+
+2023-04-20T11:21:11+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_variation_regular_price() in /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/content-single-product.php:22
+Stack trace:
+#0 /home/c/cm78278/igor/public_html/wp-includes/template.php(785): require()
+#1 /home/c/cm78278/igor/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template('/home/c/cm78278...', false)
+#2 /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/single-product.php(29): wc_get_template_part('content', 'single-product')
+#3 /home/c/cm78278/igor/public_html/wp-includes/template-loader.php(106): include('/home/c/cm78278...')
+#4 /home/c/cm78278/igor/public_html/wp-blog-header.php(19): require_once('/home/c/cm78278...')
+#5 /home/c/cm78278/igor/public_html/index.php(17): require('/home/c/cm78278...')
+#6 {main}
+  thrown в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/content-single-product.php на строке 22
+

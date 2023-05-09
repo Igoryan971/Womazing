@@ -1,0 +1,8 @@
+2023-04-19T05:43:52+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF), expecting end of file в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/content-single-product.php на строке 67
+
+2023-04-19T05:43:53+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF), expecting end of file в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/content-single-product.php на строке 67
+
+2023-04-19T05:47:12+00:00 CRITICAL syntax error, unexpected '<', expecting end of file в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/content-single-product.php на строке 112
+
+2023-04-19T14:29:26+00:00 CRITICAL syntax error, unexpected '$product' (T_VARIABLE) в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/content-single-product.php на строке 32
+

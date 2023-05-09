@@ -1,0 +1,24 @@
+2023-04-25T05:35:10+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-checkout.php:38
+Stack trace:
+#0 /home/c/cm78278/igor/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/c/cm78278/igor/public_html/wp-blog-header.php(19): require_once('/home/c/cm78278...')
+#2 /home/c/cm78278/igor/public_html/index.php(17): require('/home/c/cm78278...')
+#3 {main}
+  thrown в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-checkout.php на строке 38
+
+2023-04-25T05:51:04+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-checkout.php:35
+Stack trace:
+#0 /home/c/cm78278/igor/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/c/cm78278/igor/public_html/wp-blog-header.php(19): require_once('/home/c/cm78278...')
+#2 /home/c/cm78278/igor/public_html/index.php(17): require('/home/c/cm78278...')
+#3 {main}
+  thrown в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-checkout.php на строке 35
+
+2023-04-25T05:53:29+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-checkout.php:35
+Stack trace:
+#0 /home/c/cm78278/igor/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/c/cm78278/igor/public_html/wp-blog-header.php(19): require_once('/home/c/cm78278...')
+#2 /home/c/cm78278/igor/public_html/index.php(17): require('/home/c/cm78278...')
+#3 {main}
+  thrown в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-checkout.php на строке 35
+

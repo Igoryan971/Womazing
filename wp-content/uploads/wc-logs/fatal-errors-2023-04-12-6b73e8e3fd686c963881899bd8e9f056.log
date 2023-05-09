@@ -1,0 +1,70 @@
+2023-04-12T05:57:11+00:00 CRITICAL Uncaught Error: Call to a member function get_image() on null in /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-home.php:72
+Stack trace:
+#0 /home/c/cm78278/igor/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/c/cm78278/igor/public_html/wp-blog-header.php(19): require_once('/home/c/cm78278...')
+#2 /home/c/cm78278/igor/public_html/index.php(17): require('/home/c/cm78278...')
+#3 {main}
+  thrown в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-home.php на строке 72
+
+2023-04-12T05:57:29+00:00 CRITICAL Uncaught Error: Call to a member function get_image() on null in /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-home.php:72
+Stack trace:
+#0 /home/c/cm78278/igor/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/c/cm78278/igor/public_html/wp-blog-header.php(19): require_once('/home/c/cm78278...')
+#2 /home/c/cm78278/igor/public_html/index.php(17): require('/home/c/cm78278...')
+#3 {main}
+  thrown в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-home.php на строке 72
+
+2023-04-12T05:59:31+00:00 CRITICAL Uncaught Error: Call to a member function get_image() on null in /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-home.php:71
+Stack trace:
+#0 /home/c/cm78278/igor/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/c/cm78278/igor/public_html/wp-blog-header.php(19): require_once('/home/c/cm78278...')
+#2 /home/c/cm78278/igor/public_html/index.php(17): require('/home/c/cm78278...')
+#3 {main}
+  thrown в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-home.php на строке 71
+
+2023-04-12T06:21:36+00:00 CRITICAL Uncaught Error: Call to a member function get_image() on null in /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-home.php:86
+Stack trace:
+#0 /home/c/cm78278/igor/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/c/cm78278/igor/public_html/wp-blog-header.php(19): require_once('/home/c/cm78278...')
+#2 /home/c/cm78278/igor/public_html/index.php(17): require('/home/c/cm78278...')
+#3 {main}
+  thrown в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/templates/template-home.php на строке 86
+
+2023-04-12T08:53:20+00:00 CRITICAL syntax error, unexpected '20' (T_LNUMBER), expecting ')' в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/woocommerce/content-single-product.php на строке 101
+
+2023-04-12T11:13:47+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/inc/woo.php на строке 33
+
+2023-04-12T11:13:47+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/inc/woo.php на строке 33
+
+2023-04-12T11:14:07+00:00 CRITICAL syntax error, unexpected 'if' (T_IF), expecting ';' or ',' в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/inc/woo.php на строке 3
+
+2023-04-12T11:14:07+00:00 CRITICAL syntax error, unexpected 'if' (T_IF), expecting ';' or ',' в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/inc/woo.php на строке 3
+
+2023-04-12T11:14:24+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/inc/woo.php на строке 33
+
+2023-04-12T11:14:24+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/inc/woo.php на строке 33
+
+2023-04-12T11:14:37+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/inc/woo.php на строке 33
+
+2023-04-12T11:14:37+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/inc/woo.php на строке 33
+
+2023-04-12T11:19:55+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/inc/woo.php на строке 33
+
+2023-04-12T11:19:56+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/inc/woo.php на строке 33
+
+2023-04-12T12:06:56+00:00 CRITICAL Cannot redeclare womazing_wrapper_product_end() (previously declared in /home/c/cm78278/igor/public_html/wp-content/themes/womazing/inc/woo.php:48) в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/inc/woo.php на строке 82
+
+2023-04-12T12:06:57+00:00 CRITICAL Cannot redeclare womazing_wrapper_product_end() (previously declared in /home/c/cm78278/igor/public_html/wp-content/themes/womazing/inc/woo.php:48) в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/inc/woo.php на строке 82
+
+2023-04-12T13:26:11+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/inc/woo.php на строке 32
+
+2023-04-12T13:26:11+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/inc/woo.php на строке 32
+
+2023-04-12T13:27:07+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/inc/woo.php на строке 32
+
+2023-04-12T13:27:08+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/inc/woo.php на строке 32
+
+2023-04-12T13:29:15+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/inc/woo.php на строке 32
+
+2023-04-12T13:29:15+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) в /home/c/cm78278/igor/public_html/wp-content/themes/womazing/inc/woo.php на строке 32
+
